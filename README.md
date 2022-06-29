@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust,Python,Flutter
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gniebnamuh@qq.com
+- 📫 How to reach me ccalhounjohn@gamil.com
 
 <!---
 DonneJohn/DonneJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
